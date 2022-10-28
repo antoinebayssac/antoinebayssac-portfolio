@@ -56,4 +56,4 @@ Finally I registered on Zapier (https://zapier.com/) to link my github repo to a
 
 
 
-                                    /// And here you have successfully installed the project correctly ///
+                                    /// And here you have successfully installed the project correctly ! ///
