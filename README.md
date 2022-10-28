@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 ---------------------------------------------------------------------------1---------------------------------------------------------------
 
 
@@ -57,3 +58,15 @@ Finally I registered on Zapier (https://zapier.com/) to link my github repo to a
 
 
                                     /// And here you have successfully installed the project correctly ! ///
+=======
+-------------1---------------
+
+To start, you must go to (https://vercel.com/) and you must connect your github account
+
+-------------2---------------
+
+2 - Then, thanks to Vercel, you must import the project directly from github. Once the project is imported, you must go to the deployment tab, activate the "Checkly" feature in the "Running Checks" tab.
+
+
+
+>>>>>>> Stashed changes
