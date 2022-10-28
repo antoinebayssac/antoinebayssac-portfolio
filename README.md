@@ -52,3 +52,8 @@ And finally download a last application "CodeFactor" which will allow you to res
 Finally I registered on Zapier (https://zapier.com/) to link my github repo to a discord that I created to be able to send automatic commits on the discord
 
 ![Capture d’écran 2022-10-28 à 11 14 35](https://user-images.githubusercontent.com/113120060/198552228-5cc5b1ba-0bbe-4689-8fb8-162929c655f9.png)
+
+
+
+
+                                    /// And here you have successfully installed the project correctly ///
